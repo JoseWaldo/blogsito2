@@ -1,0 +1,35 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
+
+.contenedor{
+    width: 80%;
+    border: 1px solid #F57542;
+    border-radius: 20px;
+    padding: 40px;
+    text-align: justify;
+    margin: 0 auto;
+    background-color: ghostwhite;
+}
+
+.contenedor h2 {
+    color: #F57542;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.boton{
+    width: 200px;
+    height: 50px;
+    background-color: #F57542;
+    color: azure;
+    text-align: center;
+    padding: 10px;
+    padding-top: 20px;
+    border-radius: 25px;
+    cursor: pointer;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
